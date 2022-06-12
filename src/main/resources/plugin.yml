@@ -1,0 +1,10 @@
+name: ${project.name}
+main: it.multicoredev.uhc.UHC
+version: ${project.version}
+api-version: 1.16
+authors: [LoreSchaeffer]
+website: https://multicore.network
+
+commands:
+  uhc:
+    description: Main uhc command
